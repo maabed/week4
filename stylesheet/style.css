@@ -1,0 +1,11 @@
+
+.header-image {
+    background-image: url('../images/header-cover.jpg');
+    background-size: cover;
+    margin-top: 85px;
+}
+
+.cr-footer {
+    color: #fff;
+    
+}
