@@ -7,5 +7,22 @@
 
 .cr-footer {
     color: #fff;
-    
+    display: inline-block;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    vertical-align: baseline;
+}
+
+
+.flex-item {
+    flex-grow: 
+}
+
+
+.my-nav-color {
+    color: green !important;
 }
